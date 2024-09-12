@@ -31,11 +31,11 @@ Since this is a frontend-focused project, all you need is a web browser to run t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Job-Tracker.git
+   git clone https://github.com/shereen-esther/job-tracker.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd Job-Tracker
+   cd job-tracker
    ```
 3. Open the `index.html` file in your browser to use the application:
    ```bash
