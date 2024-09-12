@@ -39,3 +39,7 @@
 
 4. **Companies**
    - Lists all companies where job applications have been submitted.
+
+# Design
+### Home Page
+![Home Page](https://github.com/user-attachments/assets/ac0a7de1-a9a2-43f9-9b5a-2a964a3f9c65)
