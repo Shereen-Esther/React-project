@@ -45,7 +45,7 @@
 ![Home Page](https://github.com/user-attachments/assets/6ef252be-b9de-4a5a-bd51-fc76cc196a3d)
 
 ### Add Job Page
-![Add Job Page](https://github.com/user-attachments/assets/1c7faa43-e377-4a79-9af8-d5fa38d46afb)
+![Add Job Page](https://github.com/user-attachments/assets/1650d4e4-64e2-465a-abf4-863751e465a7)
 
 ### Job List Page
 ![Job List Page](https://github.com/user-attachments/assets/8c53b03f-20a0-43ff-b0b8-604fd58ca20f)
