@@ -43,3 +43,7 @@
 # Design
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/ac0a7de1-a9a2-43f9-9b5a-2a964a3f9c65)
+
+### Job List Page
+![Job List Page](https://github.com/user-attachments/assets/8c53b03f-20a0-43ff-b0b8-604fd58ca20f)
+
