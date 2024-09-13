@@ -51,4 +51,5 @@
 ![Job List Page](https://github.com/user-attachments/assets/8c53b03f-20a0-43ff-b0b8-604fd58ca20f)
 
 ### Job Details Page
-![Job Details](https://github.com/user-attachments/assets/7064566d-c0bc-48d1-85ea-a132d2b0b8d5)
+![Job Details](https://github.com/user-attachments/assets/159cccdf-ef77-41a7-8ca8-d645d4a9dcab)
+
