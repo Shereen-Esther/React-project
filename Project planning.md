@@ -42,7 +42,7 @@
 
 # Design
 ### Home Page
-![Home Page](https://github.com/user-attachments/assets/ac0a7de1-a9a2-43f9-9b5a-2a964a3f9c65)
+![Home Page](https://github.com/user-attachments/assets/6ef252be-b9de-4a5a-bd51-fc76cc196a3d)
 
 ### Job List Page
 ![Job List Page](https://github.com/user-attachments/assets/8c53b03f-20a0-43ff-b0b8-604fd58ca20f)
