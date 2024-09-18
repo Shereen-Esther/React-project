@@ -41,6 +41,9 @@
    - Lists all companies where job applications have been submitted.
 
 # Design
+### Login Page
+![Login Page](https://github.com/user-attachments/assets/eb32ff4f-ee83-4eb3-8e99-c6080de3be59)
+
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/6ef252be-b9de-4a5a-bd51-fc76cc196a3d)
 
@@ -61,3 +64,6 @@
 
 ### Add Company Page
 ![Add Company Page](https://github.com/user-attachments/assets/5f666d6d-25b9-4088-be37-a991e3435b41)
+
+### Profile Page
+### Logout Page
