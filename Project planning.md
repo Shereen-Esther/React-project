@@ -59,3 +59,5 @@
 ### Company Details Page
 ![Company List Page](https://github.com/user-attachments/assets/d2a0a989-f17c-4fa6-a5dd-a8284d92a946)
 
+### Add Company Page
+![Add Company Page](https://github.com/user-attachments/assets/5f666d6d-25b9-4088-be37-a991e3435b41)
