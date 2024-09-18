@@ -42,7 +42,7 @@
 
 # Design
 ### Login Page
-![Login Page](https://github.com/user-attachments/assets/eb32ff4f-ee83-4eb3-8e99-c6080de3be59)
+![Login Page](https://github.com/user-attachments/assets/1fc51a65-118a-47f3-bed7-0988ddcc0768)
 
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/6ef252be-b9de-4a5a-bd51-fc76cc196a3d)
