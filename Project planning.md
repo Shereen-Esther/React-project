@@ -56,5 +56,6 @@
 ### Edit Job Details Page
 ![Edit Job Details](https://github.com/user-attachments/assets/7e252f3b-15c6-47a8-a724-699c26f1a07c)
 
-
+### Company Details Page
+![Company List Page](https://github.com/user-attachments/assets/d2a0a989-f17c-4fa6-a5dd-a8284d92a946)
 
