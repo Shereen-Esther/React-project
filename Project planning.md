@@ -67,3 +67,4 @@
 
 ### Profile Page
 ### Logout Page
+![Logout Page](https://github.com/user-attachments/assets/07597f18-6098-4f07-9b32-e84033fca8ca)
