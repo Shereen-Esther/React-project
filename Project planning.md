@@ -75,4 +75,4 @@
 ![Edit Password](https://github.com/user-attachments/assets/8c1f27d0-5283-4da4-989d-b24bf7185a42)
 
 ### Logout Page
-![Logout Page](https://github.com/user-attachments/assets/07597f18-6098-4f07-9b32-e84033fca8ca)
+![Logout Page](https://github.com/user-attachments/assets/16885911-50eb-4269-8b23-6e5f3dc100a9)
