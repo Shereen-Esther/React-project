@@ -66,7 +66,7 @@
 ![Add Company Page](https://github.com/user-attachments/assets/5f666d6d-25b9-4088-be37-a991e3435b41)
 
 ### Profile Page
-![Profile Page](https://github.com/user-attachments/assets/bda27185-b180-46b3-920c-0368039bbad8)
+![Profile Page](https://github.com/user-attachments/assets/1f92b3f4-81ae-44a3-b41f-6e3b8cf809d9)
 
 ### Logout Page
 ![Logout Page](https://github.com/user-attachments/assets/07597f18-6098-4f07-9b32-e84033fca8ca)
