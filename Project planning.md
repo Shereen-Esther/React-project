@@ -45,7 +45,7 @@
 ![Login Page](https://github.com/user-attachments/assets/1fc51a65-118a-47f3-bed7-0988ddcc0768)
 
 ### Registration
-![Registration Page](https://github.com/user-attachments/assets/de5dca15-7312-45e1-b1f5-8707c9a82f57)
+![Registration Page](https://github.com/user-attachments/assets/61daaaa2-a2bd-46d7-9ac2-65992d651433)
 
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/6ef252be-b9de-4a5a-bd51-fc76cc196a3d)
