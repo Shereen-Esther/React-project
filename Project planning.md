@@ -68,5 +68,8 @@
 ### Profile Page
 ![Profile Page](https://github.com/user-attachments/assets/1f92b3f4-81ae-44a3-b41f-6e3b8cf809d9)
 
+### Edit Password
+![Edit Password](https://github.com/user-attachments/assets/8c1f27d0-5283-4da4-989d-b24bf7185a42)
+
 ### Logout Page
 ![Logout Page](https://github.com/user-attachments/assets/07597f18-6098-4f07-9b32-e84033fca8ca)
