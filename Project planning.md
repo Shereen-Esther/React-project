@@ -47,6 +47,9 @@
 ### Registration Page
 ![Registration Page](https://github.com/user-attachments/assets/61daaaa2-a2bd-46d7-9ac2-65992d651433)
 
+### Forgot Password Page
+![Forget Password Page](https://github.com/user-attachments/assets/0fec57a5-3dab-4e29-8da2-ffcf6809cd84)
+
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/6ef252be-b9de-4a5a-bd51-fc76cc196a3d)
 
