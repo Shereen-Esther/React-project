@@ -79,5 +79,3 @@
 
 ### Logout Page
 ![Logout Page](https://github.com/user-attachments/assets/16885911-50eb-4269-8b23-6e5f3dc100a9)
-
-
