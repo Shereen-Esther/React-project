@@ -58,4 +58,3 @@ This is a personal project to improve my backend development skills. However, if
 
 - The idea for this project came from my personal experience in the job market and the need to streamline job application tracking.
 - Thanks to the open-source community for providing inspiration and resources.
-
